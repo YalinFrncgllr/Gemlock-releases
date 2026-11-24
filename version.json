@@ -1,7 +1,7 @@
 {
-  "version": "2.8.2",
-  "exe_url": "https://github.com/YalinFrncgllr/Gemlock-releases/releases/download/2.8.2/Gemlock.exe",
-  "exe_sha256": "72bccbdb00416ebbcb800747eb38d89e80cfb79411da55dcd822ca1a2226ea02",
-  "notes": "Riot Client yönetici izni isteyen bilgisayarlarda Gemlock'un açılırken çökmesi düzeltildi. Riot Client yönetici olarak çalışıyorsa Gemlock bunu söyler ve kendini yönetici olarak yeniden başlatmayı önerir.",
-  "notes_en": "Fixes Gemlock crashing on start on PCs where Riot Client needs administrator rights. If Riot Client runs as administrator, Gemlock tells you and offers to restart itself as administrator."
+  "version": "2.8.3",
+  "exe_url": "https://github.com/YalinFrncgllr/Gemlock-releases/releases/download/2.8.3/Gemlock.exe",
+  "exe_sha256": "59aee314ce0030399ff1ab225c2a6b250a94483fd4b8587dd7189e701ee779d9",
+  "notes": "Exe güncellemesinden hemen sonra Gemlock'un 'init.tcl bulunamadı' hatasıyla açılmaması düzeltildi. (Bu güncellemeyi kurarken hata çıkarsa Gemlock'u masaüstünden bir kez daha aç; sonraki güncellemelerde çıkmaz.)",
+  "notes_en": "Fixes Gemlock failing to open right after an exe update ('Can't find a usable init.tcl'). If you see that error while installing this update, open Gemlock once more from the desktop; it will not happen on later updates."
 }
