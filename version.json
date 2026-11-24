@@ -1,0 +1,7 @@
+{
+  "version": "2.8.1",
+  "exe_url": "https://github.com/YalinFrncgllr/Gemlock-releases/releases/download/2.8.1/Gemlock.exe",
+  "exe_sha256": "09ecca5a66ee428f76bd3e48d798aa0527cc5bab117534f322e7ba46820a06fd",
+  "notes": "Güncellemeler artık herkese açık Gemlock-releases deposundan geliyor. Henüz exe kullanmıyorsan bu güncellemeyle exe sürümüne geçersin; hesapların ve ayarların aynen kalır.",
+  "notes_en": "Updates now come from the public Gemlock-releases repository. If you are not on the exe yet, this update moves you to it; your accounts and settings stay as they are."
+}
