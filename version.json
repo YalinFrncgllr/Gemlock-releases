@@ -1,7 +1,7 @@
 {
-  "version": "2.8.1",
-  "exe_url": "https://github.com/YalinFrncgllr/Gemlock-releases/releases/download/2.8.1/Gemlock.exe",
-  "exe_sha256": "09ecca5a66ee428f76bd3e48d798aa0527cc5bab117534f322e7ba46820a06fd",
-  "notes": "Güncellemeler artık herkese açık Gemlock-releases deposundan geliyor. Henüz exe kullanmıyorsan bu güncellemeyle exe sürümüne geçersin; hesapların ve ayarların aynen kalır.",
-  "notes_en": "Updates now come from the public Gemlock-releases repository. If you are not on the exe yet, this update moves you to it; your accounts and settings stay as they are."
+  "version": "2.8.2",
+  "exe_url": "https://github.com/YalinFrncgllr/Gemlock-releases/releases/download/2.8.2/Gemlock.exe",
+  "exe_sha256": "72bccbdb00416ebbcb800747eb38d89e80cfb79411da55dcd822ca1a2226ea02",
+  "notes": "Riot Client yönetici izni isteyen bilgisayarlarda Gemlock'un açılırken çökmesi düzeltildi. Riot Client yönetici olarak çalışıyorsa Gemlock bunu söyler ve kendini yönetici olarak yeniden başlatmayı önerir.",
+  "notes_en": "Fixes Gemlock crashing on start on PCs where Riot Client needs administrator rights. If Riot Client runs as administrator, Gemlock tells you and offers to restart itself as administrator."
 }
